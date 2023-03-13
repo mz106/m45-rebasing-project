@@ -2,6 +2,11 @@ const michaelsFunc = () => {
   console.log("this is michaels func");
 };
 
+
+const catherinesfunc = () => {
+  console.log("This is Catherine's func.");
+}
+
 const michaelsCoolFunc = () => {
   console.log("michaels cool func");
 };
@@ -16,3 +21,4 @@ const adamfunc2 = () => {
 
 const jessicasAwsomeFunc = () => {
   console.log("This awsome Function does nothing");
+
