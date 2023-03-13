@@ -2,7 +2,6 @@ const michaelsFunc = () => {
   console.log("this is michaels func");
 };
 
-
 const catherinesfunc = () => {
   console.log("This is Catherine's func.");
 }
@@ -10,9 +9,6 @@ const catherinesfunc = () => {
 const michaelsCoolFunc = () => {
   console.log("michaels cool func");
 };
-
-
-
 
 const mattsterribleFunction = () => {
   let func = Date();
@@ -31,8 +27,20 @@ const adamsfunc = () => {
 
 const adamfunc2 = () => {
   console.log("will this be pushed?")
+}
 
 const jessicasAwsomeFunc = () => {
   console.log("This awsome Function does nothing");
+
+}
+
+const jessfunc2 = () => {
+    console.log("Broken?")
+}
+  
+const jessfunc3 = () => {
+    console.log("more broken????")
+}
+
 
 
