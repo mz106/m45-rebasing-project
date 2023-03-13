@@ -12,6 +12,19 @@ const michaelsCoolFunc = () => {
 };
 
 
+
+
+const mattsterribleFunction = () => {
+  let func = Date();
+
+  try {
+    
+  } catch (error) {
+     res.status(501).json({ errorMessage: error.message, error: error })
+  }
+  console.log(func)
+}
+
 const adamsfunc = () => {
   console.log("have I broke this yet?")
 }
@@ -21,4 +34,5 @@ const adamfunc2 = () => {
 
 const jessicasAwsomeFunc = () => {
   console.log("This awsome Function does nothing");
+
 
