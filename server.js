@@ -13,10 +13,10 @@ const adamsfunc = () => {
 
 const adamfunc2 = () => {
   console.log("will this be pushed?")
-
+}
 const jessicasAwsomeFunc = () => {
   console.log("This awsome Function does nothing");
-
+}
 
   const jessfunc2 = () => {
     console.log("Broken?")
