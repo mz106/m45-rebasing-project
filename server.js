@@ -16,3 +16,12 @@ const adamfunc2 = () => {
 
 const jessicasAwsomeFunc = () => {
   console.log("This awsome Function does nothing");
+
+
+  const jessfunc2 = () => {
+    console.log("Broken?")
+  }
+  
+  const jessfunc3 = () => {
+    console.log("more broken????")
+  }
