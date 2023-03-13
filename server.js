@@ -5,3 +5,7 @@ const michaelsFunc = () => {
 const michaelsCoolFunc = () => {
   console.log("michaels cool func");
 };
+
+const adamsfunc = () => {
+  console.log("have I broke this yet?")
+}
