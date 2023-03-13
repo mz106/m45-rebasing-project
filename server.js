@@ -9,3 +9,7 @@ const michaelsCoolFunc = () => {
 const adamsfunc = () => {
   console.log("have I broke this yet?")
 }
+
+const adamfunc2 = () => {
+  console.log("will this be pushed?")
+}
